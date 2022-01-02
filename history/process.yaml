@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE01ISSM-MFD35-04-ADCPTM000-recovered_inst-adcp_velocity_earth
 data_stream: CE01ISSM-MFD35-04-ADCPTM000-recovered_inst-adcp_velocity_earth
 end_date: '2021-03-28T16:30:00.000Z'
-last_updated: '2021-12-29T08:41:29.052980'
+last_updated: '2022-01-02T00:42:09.701665Z'
 start_date: '2014-04-18T00:21:18.640Z'
-status: success
+status: pending
